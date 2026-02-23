@@ -50,7 +50,7 @@ Visit http://localhost:8787 to see your new app!
 bun run deploy
 ```
 
-Or connect your repo in the Cloudflare dashboard - add a Build setting with command `bun run build` and output directory `public`.
+Or connect your repo in the Cloudflare dashboard - add a Build setting with command `bun run build`.
 
 ## Copyright
 
